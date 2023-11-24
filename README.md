@@ -42,7 +42,7 @@ This script is intended to run on a freshly installed Debian Linux! Otherwise, i
 ## 1. Download
 
 ```
-git clone https://github.com/marekbeckmann/Secure-Debian-Script.git ~/Secure-Debian
+git clone https://github.com/marekbeckmann/Secure-Debian-Script.git ~/Secure-Debian](https://github.com/j551n-ncloud/Secure-Debian-Script.git
 cd ~/Secure-Debian && chmod +x secure-debian.sh
 ``` 
 
